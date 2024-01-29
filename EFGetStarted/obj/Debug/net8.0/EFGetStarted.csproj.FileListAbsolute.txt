@@ -1,0 +1,15 @@
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\bin\Debug\net8.0\EFGetStarted.exe
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\bin\Debug\net8.0\EFGetStarted.deps.json
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\bin\Debug\net8.0\EFGetStarted.runtimeconfig.json
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\bin\Debug\net8.0\EFGetStarted.dll
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\bin\Debug\net8.0\EFGetStarted.pdb
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.AssemblyInfoInputs.cache
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.AssemblyInfo.cs
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.csproj.CoreCompileInputs.cache
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.sourcelink.json
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.dll
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\refint\EFGetStarted.dll
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.pdb
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\EFGetStarted.genruntimeconfig.cache
+C:\Users\saura\AppData\Local\nvim\EFGetStarted\obj\Debug\net8.0\ref\EFGetStarted.dll
